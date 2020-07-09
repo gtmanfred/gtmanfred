@@ -1,6 +1,6 @@
 Hi! My name is Daniel Wallace (gtmanfred obvs).
 
-.. image:: picture.jpg
+.. image:: https://raw.githubusercontent.com/gtmanfred/gtmanfred/master/picture.jpg
 
 I love opensource!
 
