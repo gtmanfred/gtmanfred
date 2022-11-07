@@ -20,6 +20,7 @@ Find me in these other places:
 - KeyBase_
 - `My Blog`_
 - Twitter_
+- Mastodon_
 
 .. _`San Antonio Devs`: https://satx.dev
 .. _`Alamo City Python Group`: https://www.meetup.com/Alamo-City-Python-Group/
@@ -29,4 +30,5 @@ Find me in these other places:
 .. _KeyBase: https://keybase.io/gtmanfred
 .. _`My Blog`: https://blog.gtmanfred.com
 .. _Twitter: https://twitter.com/gtmanfred
+.. _Mastodon: https://dice.camp/@gtmanfred
 
