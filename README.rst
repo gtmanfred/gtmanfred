@@ -4,15 +4,18 @@ Hi! My name is Daniel Wallace (gtmanfred obvs).
 
 I love opensource!
 
-I come and see the things I contribute to.
+Come and see the things I contribute to.
 
-If you are in San Antonio, TX, you should come hang out with us.
-
-- `San Antonio Devs`_ - See the slack button on the left nav bar
-- `Alamo City Python Group`_
+Currenting I work for Autodesk on the Construction Cloud.
 
 I used to be a core developer for SaltStack_ and a TrustedUser_ for Archlinux. Now I mostly contribute to small
 projects on github and tinker with things in my spare time.
+
+My main side projects focus on Tabletop RPGs current:
+
+- `TrophyRPG Diceroller`_
+- `Actual Play Podcast Crawler`_
+- `Ratstaff Dicebot`_
 
 Find me in these other places:
 
@@ -22,8 +25,6 @@ Find me in these other places:
 - Twitter_
 - Mastodon_
 
-.. _`San Antonio Devs`: https://satx.dev
-.. _`Alamo City Python Group`: https://www.meetup.com/Alamo-City-Python-Group/
 .. _SaltStack: https://github.com/saltstack/salt.git
 .. _TrustedUser: https://www.archlinux.org/people/trusted-user-fellows/#dwallace
 .. _Instagram: https://instagram.com/gtmanfred
@@ -31,4 +32,6 @@ Find me in these other places:
 .. _`My Blog`: https://blog.gtmanfred.com
 .. _Twitter: https://twitter.com/gtmanfred
 .. _Mastodon: https://dice.camp/@gtmanfred
-
+.. _`TrophyRPG Diceroller`: https://roll.trophyrpg.com
+.. _`Actual Play Podcast Crawler`: https://podcasts.gtmanfred.com
+.. _`Ratstaff Dicebot`: https://discord.com/oauth2/authorize?client_id=771422184467202142&scope=bot
