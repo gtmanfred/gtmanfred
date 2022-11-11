@@ -23,7 +23,7 @@ Find me in these other places:
 - KeyBase_
 - `My Blog`_
 - Twitter_
-- Mastodon
+- Mastodon_
 
 .. raw::html
 
