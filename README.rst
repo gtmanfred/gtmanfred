@@ -25,7 +25,7 @@ Find me in these other places:
 - Twitter_
 - Mastodon_
 
-.. raw::html
+.. raw:: html
 
     <a href="https://dice.camp/@gtmanfred" rel="me">Mathstodon</a>
 
