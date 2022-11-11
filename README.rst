@@ -27,7 +27,7 @@ Find me in these other places:
 
 .. raw:: html
 
-    <a href="https://dice.camp/@gtmanfred" rel="me">Mathstodon</a>
+    <a href="https://dice.camp/@gtmanfred" rel="me">Mastodon</a>
 
 .. _SaltStack: https://github.com/saltstack/salt.git
 .. _TrustedUser: https://www.archlinux.org/people/trusted-user-fellows/#dwallace
