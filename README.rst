@@ -23,7 +23,7 @@ Find me in these other places:
 - KeyBase_
 - `My Blog`_
 - Twitter_
-- Mastodon_
+- <a href="https://mathstodon.xyz/@mlliarm" rel="me">Mathstodon</a>
 
 .. _SaltStack: https://github.com/saltstack/salt.git
 .. _TrustedUser: https://www.archlinux.org/people/trusted-user-fellows/#dwallace
